@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1029973172603",
+    "firebase_url": "https://lesson8push.firebaseio.com",
+    "project_id": "lesson8push",
+    "storage_bucket": "lesson8push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029973172603:android:94512645eade60c1",
+        "android_client_info": {
+          "package_name": "com.example.vadim.lesson8notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029973172603-9m1k8ttgd8jfs3v70h89if0sjpnosuvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTh1cJIqU3Gm_XI1DID39EdXLd2sx23o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
